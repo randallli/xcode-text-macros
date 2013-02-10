@@ -9,7 +9,7 @@
 		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>enum e&lt;#!enumeration name!#&gt; {
+	<string>typedef enum e&lt;#!enumeration name!#&gt; {
     e&lt;#!enumration name!#&gt;Invalid = -1,
     e&lt;#!enumration name!#&gt;&lt;#!enumration type!#&gt;,
     e&lt;#!enumration name!#&gt;&lt;#!enumration type!#&gt;,
